@@ -44,3 +44,6 @@ Test-Driven Development (TDD): Embracing TDD to write better tests and ensure th
 My background extends beyond coding—I bring leadership experience from previous roles where I mentored teams, strategized systems implementation, and fostered collaboration. This unique blend of technical expertise and leadership skills allows me to approach problem-solving with a holistic, user-centric perspective.
 
 I’ve built a career focused on empowering teams through systems that promote competence, collaboration, and accountability. Now, as a software engineer, I’m eager to leverage my leadership experience to contribute to agile, forward-thinking teams that prioritize both technical excellence and user experience.
+
+# Let's Connect!
+
