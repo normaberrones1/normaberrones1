@@ -1,22 +1,46 @@
 ![Initial image](Photos/nbgit.png)
 
-As I navigate through my career switch into tech, I’m excited to leverage this platform to continuously develop my skills and deepen my understanding of software development. My journey through Tech Elevator has equipped me with a robust set of technical competencies, including:
+Hello, I'm Norma!
 
-Languages & Frameworks: Java, JavaScript, HTML, CSS, Vue.js, Spring Boot Databases: PostgreSQL, SQL, JDBC Development Practices: Agile methodologies, Integration Testing, Unit Testing (JUnit) Tools & Environments: Git, IntelliJ Design & Architecture: E/R Diagrams, Table Design I am passionate about creating efficient, scalable systems and am particularly interested in collaborative projects that foster innovation and growth. If you’re looking for someone eager to learn and contribute, let’s connect!
+As I transition into the world of software development, I'm excited to bring my passion for technology and my experience from Tech Elevator to build impactful, scalable systems. I’m committed to continuous learning and applying my growing technical skillset to collaborate on innovative projects.
 
- <a class="fa-icon fa-icon-2x" href="https://www.linkedin.com/in/normaberrones" title="">
-          <i class="fa fa-linkedin"></i>
 
-<!--
-**normaberrones1/normaberrones1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Tech Journey
+I’ve developed a solid foundation in software engineering, with hands-on experience in the following areas:
 
-Here are some ideas to get you started:
+Languages & Frameworks:
+Java | JavaScript | HTML | CSS | Vue.js | Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+Databases:
+PostgreSQL | SQL | JDBC
+
+Development Practices:
+Agile methodologies | Integration Testing | Unit Testing (JUnit)
+
+Tools & Environments:
+Git | IntelliJ | AWS | Docker (currently learning)
+
+Design & Architecture:
+E/R Diagrams | Table Design | SOLID Principles
+
+I am passionate about writing clean, efficient, and maintainable code that scales. My goal is to collaborate with like-minded individuals and teams to create systems that deliver real value.
+
+
+Continuous Learning & Growth
+As a software engineer, I am always learning and evolving. Here are some key areas I’m currently diving deeper into:
+
+Object-Oriented Programming (OOP): Strengthening my understanding of OOP to create more modular, reusable, and maintainable code.
+
+SOLID Principles: Applying these principles to improve the design of my applications, making them more scalable and easier to manage.
+
+AWS (Amazon Web Services): Gaining hands-on experience with cloud services to deploy, manage, and scale applications in the cloud.
+
+Microservices Architecture: Learning how to build distributed, fault-tolerant systems using microservices to support scalability and flexibility.
+
+Test-Driven Development (TDD): Embracing TDD to write better tests and ensure the reliability and quality of my code.
+
+
+Leadership & Engineering Blend
+My background extends beyond coding—I bring leadership experience from previous roles where I mentored teams, strategized systems implementation, and fostered collaboration. This unique blend of technical expertise and leadership skills allows me to approach problem-solving with a holistic, user-centric perspective.
+
+I’ve built a career focused on empowering teams through systems that promote competence, collaboration, and accountability. Now, as a software engineer, I’m eager to leverage my leadership experience to contribute to agile, forward-thinking teams that prioritize both technical excellence and user experience.
