@@ -1,4 +1,4 @@
-![Initial image](nbgit.png)
+![Initial image](photos/nbgit.png)
 
 As I navigate through my career switch into tech, I’m excited to leverage this platform to continuously develop my skills and deepen my understanding of software development. My journey through Tech Elevator has equipped me with a robust set of technical competencies, including:
 
