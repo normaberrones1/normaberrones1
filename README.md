@@ -1,6 +1,6 @@
 ![Initial image](Photos/nbgit.png)
 
-Hello, I'm Norma!
+# Hello, I'm Norma!
 
 As I transition into the world of software development, I'm excited to bring my passion for technology and my experience from Tech Elevator to build impactful, scalable systems. I’m committed to continuous learning and applying my growing technical skillset to collaborate on innovative projects.
 
