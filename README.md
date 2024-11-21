@@ -8,7 +8,7 @@ As I transition into the world of software development, I'm excited to bring my 
 # My Tech Journey
 I’ve developed a solid foundation in software engineering, with hands-on experience in the following areas:
 
-## Languages & Frameworks:
+#### Languages & Frameworks:
 Java | JavaScript | Vue.js | Spring Boot
 
 ## Markup & Styling: HTML | CSS 
