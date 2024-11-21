@@ -9,7 +9,9 @@ As I transition into the world of software development, I'm excited to bring my 
 I’ve developed a solid foundation in software engineering, with hands-on experience in the following areas:
 
 Languages & Frameworks:
-Java | JavaScript | HTML | CSS | Vue.js | Spring Boot
+Java | JavaScript | Vue.js | Spring Boot
+
+Markup & Styling: HTML | CSS 
 
 Databases:
 PostgreSQL | SQL | JDBC
