@@ -8,21 +8,21 @@ As I transition into the world of software development, I'm excited to bring my 
 # My Tech Journey
 I’ve developed a solid foundation in software engineering, with hands-on experience in the following areas:
 
-Languages & Frameworks:
+## Languages & Frameworks:
 Java | JavaScript | Vue.js | Spring Boot
 
-Markup & Styling: HTML | CSS 
+## Markup & Styling: HTML | CSS 
 
-Databases:
+## Databases:
 PostgreSQL | SQL | JDBC
 
-Development Practices:
+## Development Practices:
 Agile methodologies | Integration Testing | Unit Testing (JUnit)
 
-Tools & Environments:
+## Tools & Environments:
 Git | IntelliJ | AWS | Docker (currently learning)
 
-Design & Architecture:
+## Design & Architecture:
 E/R Diagrams | Table Design | SOLID Principles
 
 I am passionate about writing clean, efficient, and maintainable code that scales. My goal is to collaborate with like-minded individuals and teams to create systems that deliver real value.
