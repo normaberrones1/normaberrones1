@@ -11,7 +11,8 @@ I’ve developed a solid foundation in software engineering, with hands-on exper
 #### Languages & Frameworks:
 Java | JavaScript | Vue.js | Spring Boot
 
-#### Markup & Styling: HTML | CSS 
+#### Markup & Styling: 
+HTML | CSS 
 
 #### Databases:
 PostgreSQL | SQL | JDBC
