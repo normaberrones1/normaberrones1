@@ -1,6 +1,6 @@
 ![Initial image](Photos/nbgit.png)
 
-# Hello, I'm Norma Berrones - A Software Engineer in transition!
+# Hello, I'm Norma Berrones - Software Engineer!
 
 As I transition into the world of software development, I'm excited to bring my passion for technology and my experience from Tech Elevator to build impactful, scalable systems. I’m committed to continuous learning and applying my growing technical skillset to collaborate on innovative projects.
 
