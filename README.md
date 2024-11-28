@@ -23,7 +23,7 @@ PostgreSQL | SQL | JDBC
 Agile methodologies | Integration Testing | Unit Testing (JUnit)
 
 #### Tools & Environments:
-Git | IntelliJ | AWS | Docker (currently learning)
+Git | IntelliJ | AWS
 
 #### Design & Architecture:
 E/R Diagrams | Table Design | SOLID Principles
