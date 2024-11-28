@@ -28,7 +28,7 @@ Git | IntelliJ | AWS
 #### Design & Architecture:
 E/R Diagrams | Table Design | SOLID Principles
 
-I am passionate about writing clean, efficient, and maintainable code that scales. My goal is to collaborate with like-minded individuals and teams to create systems that deliver real value.
+I am passionate about writing clean, scalable, and maintainable code. I strive to deliver real value through thoughtful design and technical excellence. My goal is to collaborate with like-minded professionals, continuously learn, and contribute to projects that solve complex problems and drive innovation.
 
 
 # Continuous Learning & Growth
